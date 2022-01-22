@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "My career portfolio. Includes number of organizations I have served. Technologies and kind of a project I worked on.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshbv/portfolio.git"
+  },
+  "author": "yogesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshbv/portfolio/issues"
+  },
+  "homepage": "https://github.com/yogeshbv/portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
